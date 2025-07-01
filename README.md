@@ -56,4 +56,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Soluckyo)](https://git.io/streak-stats)
 
+<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/Soluckyo?theme=dark&font=baloo)](https://leetcode.com/Soluckyo/)-->
+
 <!--[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluckyo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
