@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут Антон и я SQL/Java разработчик
+# Привет! 👋 Меня зовут Антон и я SQL разработчик
 
 <!--
 **Soluckyo/Soluckyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Сейчас я работаю над проектом на Java Gym Tracker, проект на микросервисах для работы спортивного зала. У меня открыт доступ к этому репозиторию, можете взглянуть на проект
-- 🌱 Так же начал изучение Python для работы с данными (numpy, pandas)
-- 🤔 Если у вас есть желание, можете подсказать улучшения для архитектуры моего проекта Gym Tracker
+- 🔭 Сейчас я работаю над составлением пайплайнов, агрегированием данных и т.п., если кратко то кручу данные
+- 🌱 Изучаю Python для работы с данными(Стягивание API и сохранение в БД/файл)
 - 📫 Как со мной связаться: anton.bykov.w@gmail.com
 
 
@@ -26,9 +25,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🏗️ Фреймворки и платформы
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗃️ Базы данных и миграции
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,20 +38,3 @@ Here are some ideas to get you started:
 ### 🔄 API и инструменты
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-### 🧪 Тестирование
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
-
-## 📈 Моя статистика
-*Не судите строго, я не так уж и часто отправляю проекты на GitHub
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soluckyo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soluckyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Soluckyo)](https://git.io/streak-stats)
-
-<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/Soluckyo?theme=dark&font=baloo)](https://leetcode.com/Soluckyo/)-->
-
-<!--[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soluckyo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
